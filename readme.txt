@@ -2,7 +2,7 @@
 Contributors: rianrietveld
 Donate link: http://wp-accessible.org/
 Tags: genesis, a11y, accessibility, dropdown menus, keyboard navigation, menus, navigation
-Tested up to: 3.6.1
+Tested up to: 4.1
 Requires at least: 3.0
 Stable tag: 1.0
 License: GPLv2 or later
@@ -20,17 +20,17 @@ Original code at http://github.com/sabreuse/accessible-menus and http://wordpres
 
 Modified: - included separate stylesheet in stead of inline style
           - changed javascript and CSS to fit Genesis 2.0 class-references
-		  
+
 The JavaScript adds the class wpacc-hover to the li.menu-item of a link on hover or focus
-The CSS wpacc-hover changes the ul.submenu from 
+The CSS wpacc-hover changes the ul.submenu from
 	left: -9999px;
-	opacity: 0; 
-into 
+	opacity: 0;
+into
 	left: auto;
 	opacity: 1;
-	
+
 Tested with the Genesis Framework version 2.0.1
-	
+
 This plugin only works on the Genesis Framework version 2.0 and higher.
 
 == Installation ==
