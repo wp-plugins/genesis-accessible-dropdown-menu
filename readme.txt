@@ -2,7 +2,7 @@
 Contributors: rianrietveld
 Donate link: http://wp-accessible.org/
 Tags: genesis, a11y, accessibility, dropdown menus, keyboard navigation, menus, navigation
-Tested up to: 4.1
+Tested up to: 4.3
 Requires at least: 3.0
 Stable tag: 1.0
 License: GPLv2 or later
